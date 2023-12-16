@@ -1,0 +1,17 @@
+{
+  "name": "ys-node",
+  "version": "1.0.0",
+  "description": "ys for node",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "kernelk14",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^3.3.0",
+    "@inquirer/select": "^1.3.1",
+    "youtubei": "^1.2.1"
+  }
+}
